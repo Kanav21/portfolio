@@ -31,7 +31,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project1.png',
     title: 'Smart-Brain',
-    info: 'Smart-Brain is a fully responsive web-app which registers the user and signs them in if their email and password is correct. It lets you detect the face in an image provided by the user even if there are multiple.',
+    info: 'Smart-Brain is a fully responsive web-app that registers the user and signs them in if their email and password are correct. It lets you detect the face in an image provided by the user even if there are multiple.',
     info2:
       'Technologies used in this web app are React.js, Node.js, Express.js, PostgreSQL and Clarifai API',
     url: 'https://smart-brain-kanav.herokuapp.com',
@@ -41,7 +41,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.png',
     title: 'Robo-Friends',
-    info: 'Robo-Friends is a fully responsive web-app which lets you search through the robot list and fetches you the details of the desired robot.',
+    info: 'Robo-Friends is a fully responsive web-app that lets you search through the robot list and fetches you the details of the desired robot.',
     info2: 'This app is entirely built on React.js',
     url: 'https://kanav21.github.io/robofriends',
     repo: 'https://github.com/Kanav21/robofriends', // if no repo, the button will not show up
