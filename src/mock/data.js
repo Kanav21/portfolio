@@ -31,7 +31,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project1.png',
     title: 'Smart-Brain',
-    info: 'Smart-Brain is a fully responsive web-app that registers the user and signs them in if their email and password are correct. It lets you detect the face in an image provided by the user even if there are multiple.',
+    info: 'Smart-Brain is a fully responsive web-app that registers the user and signs them in if their email and password are correct. It lets you detect the face in an image provided by the user even if there are multiple. Paste any link from the web and smart-brain will recognise the face in it.',
     info2:
       'Technologies used in this web app are React.js, Node.js, Express.js, PostgreSQL and Clarifai API',
     url: 'https://smart-brain-kanav.herokuapp.com',
