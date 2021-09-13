@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo:
     "I'm a huge CRICKET fanatic and a FOOTBALL fan as well. Coding is the skill I have developed over time and now it has become infectious. Below are some of my projects which I have created over time using different technologies like HTML, CSS, JavaScript, React.js, Node.js, Express.js, PostgreSQL and many more....",
   paragraphThree: 'Hope you guys like it!',
-  resume: 'https://drive.google.com/file/d/1wEf37yUQUIhSS_b8l3464vqTK8dhYVri/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/11tv4Ul-FKqoZQ_QRrCAE7i7hg0Oa0U2d/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
